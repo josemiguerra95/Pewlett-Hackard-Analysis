@@ -16,8 +16,10 @@ The purpose of the project is to determine the number of retiring employees per 
 ### We can see that there are three important things that we can notice. 
 
 1.- The majority of the retirees are senior engineers and senior staff.
+
 2.- Senior Engineer and Senior Staff positions have the greatest priority when it comes to deciding which roles the company would like to fill.
-3.- There are more people retiring than mentors, which means that the company will have to make an efficient program that cover the discrepancy between the number of people retiring and the number of people who could be trained to fill these positions.
+
+3.- There are more people retiring than mentors, which means that the company will have to make an efficient program that cover the discrepancy between the number of people retiring and the number of who could be trained to fill these positions.
 
 
 
