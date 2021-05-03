@@ -7,6 +7,7 @@ The purpose of the project is to determine the number of retiring employees per 
 ## Results
 
 Table that determines the number of retiring employees and their role titles.
+
 ![Results](Resources/retiring_titles.PNG)
 
 Table that shows the employees that are eligible for mentorship program.
