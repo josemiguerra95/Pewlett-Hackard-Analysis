@@ -13,7 +13,7 @@ The purpose of the project is to determine the number of retiring employees per 
 ![Results](Resources/mentorship_eligibility.PNG)
 
 
-### We can see that there are three important things that we can notice. 
+### We can see that there are three important factors to consider. 
 
 1.- The majority of the retirees are senior engineers and senior staff.
 
