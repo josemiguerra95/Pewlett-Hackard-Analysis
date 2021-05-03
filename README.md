@@ -7,3 +7,5 @@ The purpose of the project is to determine the number of retiring employees per 
 
 ![Results](Resources/retiring_titles.PNG)
 
+
+![Results](Resources/mentorship_eligibility.PNG)
